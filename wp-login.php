@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://crushct2k2.github.io/sontruong/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
+								<a href="https://crushct2k2.github.io/sontruong/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 </script>
 <script src="https://crushct2k2.github.io/sontruong/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"87f13ff44d"};
+var userProfileL10n = {"user_id":"0","nonce":"30769eb0a4"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
