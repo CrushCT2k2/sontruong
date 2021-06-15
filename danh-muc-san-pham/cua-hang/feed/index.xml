@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/danh-muc-san-pham/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://crushct2k2.github.io/sontruong</link>
 	<description>Thương hiệu xe moto đằng cấp chính hãng Ý</description>
-	<lastBuildDate>Tue, 15 Jun 2021 07:13:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Jun 2021 07:51:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,29 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Ducati Monster 1200</title>
+		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/</link>
+					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/#respond</comments>
+		
+		<dc:creator><![CDATA[Cao Sơn Trường]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 07:50:46 +0000</pubDate>
+				<guid isPermaLink="false">https://crushct2k2.github.io/sontruong/?post_type=product&#038;p=160</guid>
+
+					<description><![CDATA[-Tỉ lệ 1:18 -Chất liệu: Nhựa ABS, cao su và 1 vài chi tiết bằng kim loại -Sơn tĩnh điện cho nước sơn sáng bóng, mỏng, bền -Chức năng: Bánh trước bánh sau quay được, nhún sau nhún được, tay lái bẻ được, có chân chống -Kích thước xe:123x54x60mm -Can nặng: 200g]]></description>
+										<content:encoded><![CDATA[<p>-Tỉ lệ 1:18</p>
+<p>-Chất liệu: Nhựa ABS, cao su và 1 vài chi tiết bằng kim loại</p>
+<p>-Sơn tĩnh điện cho nước sơn sáng bóng, mỏng, bền</p>
+<p>-Chức năng: Bánh trước bánh sau quay được, nhún sau nhún được, tay lái bẻ được, có chân chống</p>
+<p>-Kích thước xe:123x54x60mm</p>
+<p>-Can nặng: 200g</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ducati Panigale V4S</title>
 		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-panigale-v4s/</link>
 					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-panigale-v4s/#respond</comments>

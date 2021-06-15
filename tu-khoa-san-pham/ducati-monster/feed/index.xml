@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; Ducati Việt Nam</title>
-	<atom:link href="http://localhost/myproject/wordpress/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<title>Ducati Monster &#8211; Ducati Việt Nam</title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/tu-khoa-san-pham/ducati-monster/feed/" rel="self" type="application/rss+xml" />
 	<link>https://crushct2k2.github.io/sontruong</link>
 	<description>Thương hiệu xe moto đằng cấp chính hãng Ý</description>
 	<lastBuildDate>Tue, 15 Jun 2021 07:51:18 +0000</lastBuildDate>
@@ -38,35 +38,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ducati Panigale V4S</title>
-		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-panigale-v4s/</link>
-					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-panigale-v4s/#respond</comments>
-		
-		<dc:creator><![CDATA[Cao Sơn Trường]]></dc:creator>
-		<pubDate>Tue, 15 Jun 2021 03:06:20 +0000</pubDate>
-				<guid isPermaLink="false">https://crushct2k2.github.io/sontruong/?post_type=product&#038;p=123</guid>
-
-					<description><![CDATA[-Tỉ lệ: 1:18
-
--Kích thước: dài 12cm, ngang 4cm, cao 7cm
-
--Trọng lượng: 550g]]></description>
-										<content:encoded><![CDATA[<p>-Tỉ lệ: 1:18</p>
-<p>-Chất liệu: Bình xăng và khung xe được làm bằng kim loại. Dàn áo bằng nhựa, lốp xe làm bằng cao su.</p>
-<p>-Sơn: Lớp sơn mịn tương đối, bóng hoàn hảo.</p>
-<p>-Chức năng: Bánh xe có thể quay được, đánh lái được và phuộc nhúng được.</p>
-<p>-Kích thước: dài 12cm, ngang 4cm, cao 7cm</p>
-<p>-Trọng lượng: 550g</p>
-<p>-Hãng sản xuất: Maisto</p>
-<p>-Sản phẩm được sản xuất có bản quyền</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-panigale-v4s/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
