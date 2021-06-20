@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://crushct2k2.github.io/sontruong</link>
 	<description>Thương hiệu xe moto đằng cấp chính hãng Ý</description>
-	<lastBuildDate>Wed, 16 Jun 2021 03:28:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Jun 2021 04:07:56 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,32 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Ducati Streetfighter</title>
+		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-streetfighter/</link>
+					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-streetfighter/#respond</comments>
+		
+		<dc:creator><![CDATA[Cao Sơn Trường]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 04:05:37 +0000</pubDate>
+				<guid isPermaLink="false">https://crushct2k2.github.io/sontruong/?post_type=product&#038;p=185</guid>
+
+					<description><![CDATA[-Tỷ lệ: 1:12.
+
+-Kích thước: dài 18 cm &#124; rộng 6 cm &#124; cao 9 cm.
+
+-Cân nặng: 540g]]></description>
+										<content:encoded><![CDATA[<p>-Xe mô hình Ducati Streetfighter có bình xăng bằng kim loại, các chi tiết bằng nhựa ABS, lốp xe bằng cao su.</p>
+<p>-Bánh trước, bánh sau quay được, bẻ lái được, phuộc sau nhún <span class="text_exposed_show">rất thích, xe có chân chống.</span></p>
+<p>-Tỷ lệ: 1:12.</p>
+<p>-Kích thước: dài 18 cm | rộng 6 cm | cao 9 cm.</p>
+<p>-Cân nặng: 540g</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-streetfighter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ducati Monster 1200</title>
 		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/</link>
 					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-monster-1200/#respond</comments>
