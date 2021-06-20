@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ducati Hypermotard &#8211; Ducati Việt Nam</title>
+	<atom:link href="http://localhost/myproject/wordpress/wordpress/tu-khoa-san-pham/ducati-hypermotard/feed/" rel="self" type="application/rss+xml" />
+	<link>https://crushct2k2.github.io/sontruong</link>
+	<description>Thương hiệu xe moto đằng cấp chính hãng Ý</description>
+	<lastBuildDate>Sun, 20 Jun 2021 16:09:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Ducati Hypermotard</title>
+		<link>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-hypermotard/</link>
+					<comments>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-hypermotard/#respond</comments>
+		
+		<dc:creator><![CDATA[Cao Sơn Trường]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 16:00:02 +0000</pubDate>
+				<guid isPermaLink="false">https://crushct2k2.github.io/sontruong/?post_type=product&#038;p=204</guid>
+
+					<description><![CDATA[<strong>-Tỉ lệ: </strong>1:12 (nhỏ hơn xe thật 12 lần)
+
+-Kích thước: 19cm x 5cm x 9cm]]></description>
+										<content:encoded><![CDATA[<p><strong>-Tỉ lệ: </strong>1:12 (nhỏ hơn xe thật 12 lần)</p>
+<p>-Chất liệu : Một vài chi tiết bằng hợp kim, lốp xe được làm từ cao su tự nhiên.</p>
+<p>-Nước sơn : Tĩnh điện cho nước sơn bóng, bền, có độ nét khá cao.</p>
+<p>-Chức năng : cổ xe quay được, 2 bánh trước và sau quay được, phuộc sau có thể nhún được</p>
+<p>-Kích thước: 19cm x 5cm x 9cm</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://crushct2k2.github.io/sontruong/sản%20phẩm/ducati-hypermotard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
